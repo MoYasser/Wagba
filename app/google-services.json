@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889731885338",
+    "project_id": "mobileporg",
+    "storage_bucket": "mobileporg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889731885338:android:d8d486f02bbf54f7eca4a3",
+        "android_client_info": {
+          "package_name": "com.example.mobileporg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889731885338-rqf4j7oltdtvqurv9qk60o4k03ll0eps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2OGOCsjCMro2ngn74cNenVijn7yQF08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889731885338-rqf4j7oltdtvqurv9qk60o4k03ll0eps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
